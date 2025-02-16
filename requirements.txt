@@ -1,0 +1,7 @@
+speechrecognition
+transformers
+gtts
+pyaudio
+datasets
+torch
+soundfile
